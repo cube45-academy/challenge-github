@@ -4,7 +4,7 @@ This challenge will be useful in all other challenges : Make sure you know how t
 
 ## Your goal
 
-Someone made a bad typo in this `REDAME.md` file. Can you fix that ?
+Someone made a bad typo in this `README.md` file. Can you fix that ?
 
 ## Variant 1 : Using the GitHub website
 
